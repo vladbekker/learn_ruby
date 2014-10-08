@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'nokogiri'
+#gem 'nokogiri'
 gem 'pry'
-gem 'rack', '~>1.1'
-gem 'rspec', :require => 'spec'
+#gem 'rack', '~>1.1'
+#gem 'rspec', :require => 'spec'
