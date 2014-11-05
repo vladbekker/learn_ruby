@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 #gem 'nokogiri'
 gem 'pry'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'json'
 #gem 'rack', '~>1.1'
 #gem 'rspec', :require => 'spec'
